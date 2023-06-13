@@ -25,11 +25,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umer-khokhar&show_icons=true&locale=en&layout=compact" alt="umer-khokhar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umer-khokhar&show_icons=true&locale=en" alt="umer-khokhar" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umer-khokhar&" alt="umer-khokhar" /></p>
 
 
 
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umer-khokhar" alt="umer-khokhar" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-khokhar&label=Profile%20views&color=0e75b6&style=flat" alt="umer-khokhar" /> </p>
