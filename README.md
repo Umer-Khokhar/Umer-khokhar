@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Newsletter sign-up form with success message**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **How to think in javaScript**
 
 - 💬 Ask me about **html, css, js , and react**
 
