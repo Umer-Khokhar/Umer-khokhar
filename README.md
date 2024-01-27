@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Newsletter sign-up form with success message**
 
-- 🌱 I’m currently learning **How to think in javaScript**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **html, css, js , and react**
+- 💬 Ask me about **html, css, js , NodeJS ExpressJS and MongoDB**
 
 - 📫 How to reach me **umerkhokhar1001@gmail.com**
 
-- ⚡ Fun fact **I think, I am not much funny'😁**
+- ⚡ Fun fact **I think, I am much funny'😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
