@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umer Khokhar</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<br/></br></br
-
-
-- 🔭 I’m currently working on **Newsletter sign-up form with success message**
+<br/></br></br>
+  - 🔭 I’m currently working on **Newsletter sign-up form with success message**
 
   - 🌱 I’m currently learning **Node.js**
 
