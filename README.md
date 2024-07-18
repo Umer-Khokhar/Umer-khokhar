@@ -2,15 +2,16 @@
 <h3 align="center">A passionate frontend developer</h3>
 <br/></br></br
 
+
 - 🔭 I’m currently working on **Newsletter sign-up form with success message**
 
-- 🌱 I’m currently learning **Node.js**
+  - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **html, css, js , NodeJS ExpressJS and MongoDB**
+  - 💬 Ask me about **html, css, js , NodeJS ExpressJS and MongoDB**
 
-- 📫 How to reach me **umerkhokhar1001@gmail.com**
+  - 📫 How to reach me **umerkhokhar1001@gmail.com**
 
-- ⚡ Fun fact **I think, I am much funny'😁**
+  - ⚡ Fun fact **I think, I am much funny'😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
