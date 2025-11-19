@@ -103,7 +103,7 @@ Hi, I'm Umer Aswad!
 <p align="center">
 	<a href="https://github.com/Umer-Khokhar">
 		<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Umer-Khokhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Umer-Khokhar">
-		![GitHub Stats](https://streak-stats.demolab.com?user=umer-khokhar&theme=default&hide_border=true)
+		<img src="https://streak-stats.demolab.com?user=umer-khokhar&theme=default&hide_border=true" alt="umer-khokhar's GitHub Stats" />
 	</a>
 </p>
 
